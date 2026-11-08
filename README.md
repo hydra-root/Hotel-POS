@@ -168,8 +168,8 @@ app/src/main/java/com/teasupplier/app/
 ### Build & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hydra-root/Rudra-Hotel.git
-   cd Rudra-Hotel
+   git clone https://github.com/hydra-root/Hotel-POS.git
+   cd Hotel-POS
    ```
 2. Build debug APK:
    ```bash
